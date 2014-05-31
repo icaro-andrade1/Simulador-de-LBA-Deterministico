@@ -1,0 +1,10 @@
+("q0","a")->("q1","a","D")
+("q1","a")->("q2","a","D")
+("q2","a")->("q2","a","D")
+("q2","b")->("q2","b","D")
+
+Estado Inicial = q0;
+
+Estados Finais = q2;
+
+cadeia = #aabb#;

@@ -1,0 +1,25 @@
+﻿/*---------------------------------------------------------------------------------------------
+
+				Informações do código
+	
+							
+    - Trabalho desenvolvido no projeto de ensino: "Desenvolver matérias didático que 
+	  
+      estabelecem pontes conceituais entre as disciplinas de "Lógica para computação",
+	  
+      "Teoria da Computação" e "Compiladores".
+	
+    - Orientador: César Alberto Bravo Pariente
+	
+    - Autor: Ícaro Andrade Souza
+	
+    - Data: 20/05/2014
+	
+    - Email: ICARO-ANDRADE1@HOTMAIL.COM
+
+    - Objetivo: Simular o funcionamento de autômatos linearmente limitados
+		(Máquinas de Turing com Fita Limitada).
+    - Entrada: Passar como parâmetro o nome do arquivo de entrada(contendo código do LBA, 
+	       estado inicial e finais e cadeias a serem analisadas)
+    - Saida: Um arquivo txt para cada cadeia a ser analisada.
+---------------------------------------------------------------------------------------------*/
